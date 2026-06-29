@@ -40,7 +40,7 @@ This repository contains the completed exercises for the **Master Medical Inform
  
 **Type:** OOP Introduction / Software Design  
 **Language:** Python 
-**Description:** An object-oriented program mapping the central dogma of molecular biology (DNA to RNA Protein). .
+**Description:** An object-oriented program mapping DNA to RNA Protein
 
 
 ### 📂 Exercise 08: Android Sensor Overview
